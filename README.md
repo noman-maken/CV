@@ -87,7 +87,7 @@ C-II, Johar Town, Lahore, Pakistan.
 
 **Technologies:**
 
-React**,** Next JS**,** RESTful API**,** JavaScript**,** HTML5**,** CSS3**,** Git
+React, Next JS, RESTful API, JavaScript, HTML5, CSS3, Git
 
 **Tools:**
 
