@@ -122,7 +122,7 @@ C/Los Haitises-Sabana de la Mar, Hato Mayor, Republica Dom.
 
 **Technologies:**
 
-PHP**,** MySQL**,** Laravel**,** SOAP (XML) / RESTful API**,** JavaScript**,** HTML5**,** CSS3**,** Git
+PHP, MySQL, Laravel, SOAP (XML) / RESTful API, JavaScript, HTML5, CSS3, Git
 
 **Tools:**
 
@@ -165,7 +165,7 @@ Silven International
 
 **Technologies:**
 
-PHP**,** MySQL**,** Gmail API**,** JavaScript**,** TypeScript,** HTML5**,** CSS3**,** Git, 
+PHP, MySQL, Gmail API, JavaScript, TypeScript, HTML5, CSS3, Git, 
 
 **Tools:**
 
@@ -204,7 +204,7 @@ Trust Plaza Sargodha
 
 **Technologies:**
 
-PHP**,** MySQL**,** React**,** JavaScript**,** TypeScript**,** HTML5**,** CSS3**,** Git, 
+PHP, MySQL, React, JavaScript, TypeScript, HTML5, CSS3, Git, 
 
 **Tools:**
 
