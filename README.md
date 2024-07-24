@@ -1,4 +1,5 @@
-![](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.001.jpeg)Muhammad Noman Aslam
+Muhammad Noman Aslam ![](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.001.jpeg)
+
 
 ***Web Developer***
 
@@ -65,7 +66,8 @@ Looking for a job that's tough and has lots to learn, where I can grow in my car
 
 **PRACTICAL EXPERIENCE**
 
-![](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.002.png)**26-01-2024 – To date**	
+![](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.002.png)
+**26-01-2024 – To date**	
 
 **University of Management and Technology (UMT)**		
 
@@ -91,7 +93,8 @@ React**,** Next JS**,** RESTful API**,** JavaScript**,** HTML5**,** CSS3**,** Gi
 
 Visual Studio Code, WebStorm, Postman, Workbench
 
-![Dominican Republic Guide by Silven International](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.003.png)**17-06-2018 – 25-01-2024**
+![Dominican Republic Guide by Silven International](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.003.png)
+**17-06-2018 – 25-01-2024**
 
 **Silven International**		
 
@@ -137,7 +140,9 @@ Silven International
 
 \- Phone: - +1 (829) 789-9047 - WhatsApp: +420 702 026 106
 
-![](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.004.png)**17-03-2023 – 27-01-2024**
+![](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.004.png)
+
+**17-03-2023 – 27-01-2024**
 
 **The Visamtion**		
 
