@@ -1,234 +1,258 @@
-# MUHAMMAD NOMAN ASLAM
+![](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.001.jpeg)Muhammad Noman Aslam
 
-#### Street No 1 Qasim Pura Old Civil Line Sargodha · mnomanaslam6@gmail.com. +923099474498
+***Web Developer***
 
-As an experienced PHP Developer, I have a proven track record of designing and developing websites with
-seamless front-end and back-end integration. My objective is to secure a position as a PHP Developer
-where I can utilize my skills in building dynamic and user-friendly web applications. I am proficient in
-implementing payment methods such as PayPal, Stripe, and Cardnet, and have experience in integrating
-payment gateways into web applications. I am dedicated to writing clean, efficient, and scalable code and
-am committed to staying up-to-date with the latest industry trends and technologies to ensure the highest
-level of performance, security, and user experience for web applications.
+Ulfat and Sons Heights, Block M Johar Town, Lahore, Pakistan
 
-## EXPERIENCE
+Cell # 0341-6902120 Email: <mnomanaslam6@gmail.com>
 
-##### FROM 12- 09 - 2018 TO 01- 04 - 2019
+**OBJECTIVE:**
 
-### PHP DEVELOPER (INTERNSHIP)
+Looking for a job that's tough and has lots to learn, where I can grow in my career.
 
-```
-As a PHP Developer during my internship from 12- 09 - 2018 to 01- 04 - 2019, I gained valuable
-experience in designing, developing, and maintaining web applications using core PHP. I worked
-on various web development projects, honing my skills and learning new technologies and
-techniques. This experience helped prepare me for a successful career in the field of web
-development.
-```
+## **EDUCATION:** 
+**2023 			BS Software Engineering** 	Virtual University of Pakistan.
 
-##### FROM 03- 05 - 2019 TO 01- 02 - 2020
+**2017 			F.Sc. (Pre-Engineering)** 	Misali Ravian College Sargodha.
 
-### PHP DEVELOPER
+**2015			Matric (Science)** 		Misali Ravian School Sargodha.
 
-```
-During my tenure as a PHP Developer from 03- 05 - 2019 to 01- 02 - 2020, I played an instrumental
-role in designing and developing web applications for various clients. My responsibilities included
-writing clean and efficient code, designing and implementing databases, and integrating payment
-gateways into web applications. I worked collaboratively with cross-functional teams to ensure
-seamless front-end and back-end integration, and was committed to delivering high-quality work
-that met or exceeded client expectations. Additionally, I stayed up-to-date with the latest
-industry trends and technologies to ensure the highest level of performance, security, and user
-experience for web applications. Overall, I am proud of my contributions as a PHP Developer
-during this period and the impact I had on the success of the projects I worked on.
-```
-##### FROM 03- 05 - 2019 TO 01- 02 - 2020
+##
+## **COURSES & SPECIALIZATION:**
 
-### PHP AND WORDPRESS WEBSITE DEVELOPER
+**Web Applications for Everybody Specialization   University of Michigan (Coursera)**
 
-```
-In this role, I primarily focused on WordPress website development. I created custom themes
-and plugins and utilized various WordPress tools to ensure optimal website performance, user
-engagement, and conversion rates. I also worked on various PHP-based web development
-projects, utilizing my skills in PHP, MySQL, and JavaScript to create responsive and dynamic
-websites.
-```
-##### FROM 17- 08 - 2021 TO 10- 01 - 2023
+**Verification Code**: BQD6H5ENPTBZ
 
+**Verification Link**: <https://coursera.org/verify/specialization/BQD6H5ENPTBZ>
 
-### PHP DEVELOPER
+- Introduction to Web Development
+- Database Fundamentals
+- Server-Side Scripting with PHP
+- Client-Side Scripting: JavaScript and jQuery
 
-```
-I am currently employed as a PHP Developer, where I am responsible for designing, developing,
-and maintaining web applications using core PHP. My role involves writing clean and efficient
-code, integrating databases and payment gateways, and collaborating with cross-functional
-teams to ensure seamless front-end and back-end integration. Additionally, I stay up-to-date
-with the latest industry trends and technologies to ensure the highest level of performance,
-security, and user experience for web applications. Overall, I am dedicated to delivering high-
-quality work that meets or exceeds client expectations, and am committed to continuously
-improving my skills as a PHP Developer.
-```
-## EDUCATION
+**Artificial Intelligence (2023)   Presidential Initiative for Artificial Intelligence and Computing (PIAIC)**
 
-##### 2015
+**Verify From PIAIC Helpline if verification is needed**: +92-308-2220203 (WhatsApp as well)
 
-### MATRIC, MISLAI RAVIAN SCHOOL SARGODHA
+- Proficient in Python for AI development, leveraging libraries such as TensorFlow, NumPy, and Pandas.
+- Skilled in JavaScript/TypeScript for front-end development, including React for dynamic user interfaces.
+- Experienced in version control using Git, with a solid understanding of collaborative development on GitHub.
+- Applied containerization principles using Docker and orchestration with Kubernetes for scalable solutions.
 
-```
-I completed my matriculation from MISLAI RAVIAN SCHOOL SARGODHA in 2015, and I am proud
-of this achievement. During this time, I gained a solid foundation in various academic subjects,
-which has been instrumental in my academic and professional growth. My education has helped
-me develop critical thinking, problem-solving, and time management skills, which have been
-valuable assets in my academic and professional pursuits.
-```
-```
-2017
-```
-### INTERMEDIATE - FSC PRE-ENGINEERING, MISALI RAVIAN COLLEGE SARGODHA
+**E-Commerce (2018)   Punjab Skills Development Fund (PSDF)**
 
-```
-During my intermediate education, I gained a deeper understanding of various concepts in the
-field of pre-engineering. This knowledge has been invaluable in my pursuit of higher education and
-my future career aspirations. Additionally, my education has helped me further develop my critical
-thinking and analytical skills, which have been useful in various academic and professional pursuits.
-```
-##### 2019
+**Verify from PSDF if verification is needed** 
 
-### BS SOFTWARE ENGINEERING – CURRENTLY ENROLLED, 7TH SEMESTER, VIRTUAL
+- Proficient in front-end technologies, including HTML5, CSS3, and JavaScript.
+- Experience with popular CSS frameworks like Bootstrap for efficient and responsive web design
+- Strong back-end development skills using PHP, with expertise in custom PHP/MySQL development and Laravel framework.
+- Database management proficiency with both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases.
+- Specialized in implementing e-commerce functionalities, including shopping cart, and checkout features.
+- In-depth knowledge of session management and payment gateway integration using Stripe, PayPal, and Braintree APIs.
+- Emphasis on security practices, implementing secure coding, HTTPS, SSL, and integrating SOAP and RESTful API services.
 
-### UNIVERSITY OF PAKISTAN
+**Web Design & Development (2018) National Training Bureau (NTB)**
 
-```
-Pursuing a bachelor's degree in software engineering has been a rewarding experience, as it has
-allowed me to develop a strong foundation in various programming languages, software
-development methodologies, and project management techniques. Through my coursework, I
-have gained a deep understanding of software engineering principles, which has enabled me to
-design, develop and maintain software solutions that meet the needs of businesses and
-individuals. I look forward to leveraging my education and skills to pursue a successful career in
-the field of software engineering.
-```
-## CERTIFICATION
+**Verify from NTB if verification is needed**
 
-##### 2018
+- Experience in front-end design principles, including responsive web design and the use of CSS frameworks such as Bootstrap
+- Solid understanding of web development tools and workflows, including code editors like Visual Studio Code and package managers such as npm.
+- Version control proficiency using Git, with collaborative development experience on platforms like GitHub.
+- Familiarity with server-side scripting languages such as PHP for building dynamic web applications.
+- Knowledge of backend development concepts, including server architecture and deployment using Apache and Nginx.
+- Experience with APIs and web services, including designing and consuming RESTful APIs.
 
-### E-COMMERCE
+**PRACTICAL EXPERIENCE**
 
-### INSTITUTE: LOGIX COLLEGE SARGODHA
+![](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.002.png)**26-01-2024 – To date**	
 
-### CERTIFICATE PROVIDER : PUNJAB SKILLS DEVELOPMENT FUND (PSDF)
+**University of Management and Technology (UMT)**		
 
-### MARKS OBTAINED : 97%
+**Associate Software Engineer – Assistant Manager**			
 
+**Onsite Job**
 
-This course provided an in-depth understanding of the e-commerce industry and its various facets,
-including online transactions, digital marketing, and customer engagement. Through this course, I
-gained knowledge and skills in topics such as website design, payment gateways, and inventory
-management. This knowledge has been useful in my academic and professional pursuits, and I look
-forward to applying it in future projects. The certificate was provided by the Punjab Skills
-Development Fund and the marks obtained were 97%.
+C-II, Johar Town, Lahore, Pakistan.
 
-##### 2018
+**Responsibilities**
 
-### WEB DESIGN AND DEVELOPMENT
+- Developed and managed university websites.
+- Integrate and developed APIs for enhanced functionality.
+- Ensured website security and compliance with standards.
+- Used GitHub to manage team workflows and version control.
+- Provided technical support and troubleshooting for applications.
 
-### INSTITUTE: LOGIX COLLEGE SARGODHA
+**Technologies:**
 
-### CERTIFICATE PROVIDER : NATIONAL TRAINING BUREAU (NTB)
+React**,** Next JS**,** RESTful API**,** JavaScript**,** HTML5**,** CSS3**,** Git
 
-### MARKS OBTAINED : 85%
+**Tools:**
 
-This course provided an introduction to web design and development, including HTML, CSS, and
-JavaScript. Through this course, I gained knowledge and skills in designing and developing websites
-from scratch. This knowledge has been useful in my academic and professional pursuits, and I look
-forward to applying it in future projects. The certificate was provided by the National Training
-Bureau and the marks obtained were 85%.
+Visual Studio Code, WebStorm, Postman, Workbench
 
-**MAY 9, 2022**
+![Dominican Republic Guide by Silven International](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.003.png)**17-06-2018 – 25-01-2024**
 
-### BUILDING WEB APPLICATIONS IN PHP, AN ONLINE NON-CREDIT COURSE
+**Silven International**		
 
-### AUTHORIZED BY THE UNIVERSITY OF MICHIGAN AND OFFERED THROUGH
+**Full Stack Developer (PHP)**				
 
-### COURSERA
+**Remote Job**					
 
-#### VERIFICATION CODE: 66KTS5WQE7R
+RNC:13216952 
 
-#### VERIFICATION LINK: HTTPS://COURSERA.ORG/VERIFY/66KTS5WQE7R
+C/Los Haitises-Sabana de la Mar, Hato Mayor, Republica Dom.
 
-This course provided a comprehensive overview of building web applications using PHP, a popular
-server-side programming language. Through this course, I gained knowledge and skills in topics
-such as PHP syntax, variables, arrays, forms, and sessions. This knowledge has been useful in my
-academic and professional pursuits, and I look forward to applying it in future projects. The
-certificate can be verified using the provided code and link.
+**Responsibilities**
 
-##### AUGUST 17, 2020
+- Enhanced and maintained Silven International websites using PHP/MySQL.
+- Created scalable SOAP/RESTful APIs.
+- Ensured robust solutions with MVC design patterns.
+- Collaborated using JavaScript, HTML5, and CSS3.
+- Maintained security and accessibility standards.
+- Integrated MySQL/SQL/NoSQL databases.
+- Used Git for development workflows.
+- Supported large-scale projects and met deadlines.
+- Provided technical support for applications.
+- Developed Android WebView apps.
+- Implemented responsive design for mobile optimization.
 
-### CRASH COURSE ON PYTHON, AN ONLINE NON-CREDIT COURSE AUTHORIZED BY
+**Technologies:**
 
-### GOOGLE AND OFFERED THROUGH COURSERA
+PHP**,** MySQL**,** Laravel**,** SOAP (XML) / RESTful API**,** JavaScript**,** HTML5**,** CSS3**,** Git
 
-#### VERIFICATION CODE: 5KHPS3EMNYVH
+**Tools:**
 
-#### VERIFICATION LINK: HTTPS://COURSERA.ORG/VERIFY/5KHPS3EMNYVH
-
-This course provided a comprehensive overview of Python, a popular programming language, and
-its applications. Through this course, I gained knowledge and skills in topics such as data types,
-functions, loops, and file input/output. This knowledge has been useful in my academic and
-professional pursuits, and I look forward to applying it in future projects.
-
-**MAY 9, 2022**
-
-### AI FOR EVERYONE, AN ONLINE NON-CREDIT COURSE AUTHORIZED BY
-
-### DEEPLEARNING.AI AND OFFERED THROUGH COURSERA
-
-#### VERIFICATION CODE: 596FCVY2BRDX
-
-#### VERIFICATION LINK: HTTPS://COURSERA.ORG/VERIFY/596FCVY2BRDX
+Visual Studio Code, Postman, draw.io, Nessus, Trello, Android Studio
 
 
-```
-This course provided a broad introduction to the field of artificial intelligence, including its history,
-core concepts, and practical applications. Through this course, I gained a deeper understanding of
-topics such as machine learning, deep learning, and neural networks. This knowledge has been
-useful in my academic and professional pursuits, and I look forward to applying it in future projects.
-The certificate can be verified using the provided code and link.
-```
-## SKILLS
 
-- Web Development: HTML, CSS, JavaScript,
-    jQuery, AJAX, PHP
-- Content Management Systems: WordPress
-- Data Analysis and Visualization: Pandas, NumPy,
-    Matplotlib
-- Artificial Intelligence: Neural Networks, Deep
-    Learning
-       - E-commerce Platforms: WooCommerce,
-          Shopify, Magento
-       - Database Management: MySQL
-       - Machine Learning: Scikit-learn, TensorFlow
+**Reference for Verification:**
 
-## ACTIVITIES
+For verification of my professional experience, please feel free to contact:
 
-- Developing custom PHP websites with integrated payment gateways to meet client needs
-- Customizing WordPress themes and plugins to meet client requirements
-- Participating in online coding communities, such as GitHub, to collaborate on open-source
-    projects and stay up-to-date on the latest industry trends
-- Contributing to online forums and discussion groups, such as Stack Overflow, to help others
-    solve coding challenges and deepen your own understanding of programming concepts
-- Attending web development meetups and conferences to network with other professionals and
-    gain exposure to new tools and techniques
-- Exploring emerging technologies such as artificial intelligence and machine learning to stay
-    ahead of the curve and position yourself as a thought leader in the field.
+Silven International
 
-## PORTFOLIO
+\- Email: <silveninternationalsrl@gmail.com>
 
-I have created a portfolio website (https://www.itsolp.com/) to showcase my skills, abilities, and
-previous work in the field of web development. The website features a clean and modern design, with
-easy navigation and intuitive functionality. It includes a selection of my best work, along with brief
-descriptions of each project and the skills and technologies utilized to complete it.
+\- Phone: - +1 (829) 789-9047 - WhatsApp: +420 702 026 106
 
-In addition to my work as a PHP Developer, I am also a Level 2 Seller on Fiverr
-(https://www.fiverr.com/m_noman_aslam/), where I have successfully completed numerous web
-development projects for clients around the world. My Fiverr profile showcases my skills and
-experience, and demonstrates my ability to consistently deliver high-quality work that meets or exceeds
-client expectations.
+![](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.004.png)**17-03-2023 – 27-01-2024**
 
+**The Visamtion**		
+
+**Full Stack Developer (PHP)**				
+
+**Onsite Job**
+
+39, Block L Johar Town, Lahore, Punjab
+
+**Responsibilities**
+
+- Developed & implemented the company portal, integrating features to enhance overall functionality.
+- Synchronized Gmail using the Gmail API to communication and collaboration within the organization.
+- Successfully incorporated bulk and complex features into the company portal, contributing to improved user experience and efficiency.
+- Implemented security measures to safeguard company data & ensure the integrity of information.
+- Constructed and managed the company website, ensuring it aligned with organizational goals and provided a seamless user experience.
+- Managed the company WordPress site, overseeing content updates, plugin installations, and ensuring the site's optimal performance.
+- Developed a WebView app tailored to the company's needs, providing a native-like experience for users accessing the platform on mobile devices.
+- Designed and implemented a chat mobile and web app, enhancing internal communication within the company and facilitating seamless collaboration.
+
+**Technologies:**
+
+PHP**,** MySQL**,** Gmail API**,** JavaScript**,** TypeScript,** HTML5**,** CSS3**,** Git, 
+
+**Tools:**
+
+Visual Studio Code, Postman, Trello, Android Studio
+
+**Reference for Verification:**
+
+For verification of my professional experience, please feel free to contact:
+
+Silven International
+
+\- Email: <hr@visamtion.org>
+
+\- Phone: - 04232337053
+
+
+**01-04-2018 – 01-02-2022**
+
+**Software House**		
+
+**PHP Developer**				
+
+**Onsite Job**
+
+Trust Plaza Sargodha
+
+**Responsibilities**
+
+- Ensured web application functionality through rigorous testing and debugging.
+- Implemented robust security measures for data protection against cyber threats.
+- Provided ongoing maintenance and support for existing applications.
+- Conducted code reviews and stayed updated on emerging technologies.
+- Collaborated closely with clients for tailored solutions.
+- Documented technical specifications and mentored junior developers.
+- Contributed to project planning and process optimization.
+
+**Technologies:**
+
+PHP**,** MySQL**,** React**,** JavaScript**,** TypeScript**,** HTML5**,** CSS3**,** Git, 
+
+**Tools:**
+
+Visual Studio Code, Postman, Trello, Android Studio
+
+![](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.005.jpeg)**2018**
+
+**Fiverr**		
+
+**Level 2 Seller at Fiverr**				
+
+**Remote Jobs**
+
+**Responsibilities**
+
+- Developed responsive and user-friendly websites using HTML, CSS, and JavaScript.
+- Utilized PHP and Laravel for backend development, ensuring scalability.
+- Integrated APIs to enhance website functionality and enable seamless data exchange.
+- Implemented secure payment gateways for e-commerce sites, ensuring smooth transactions.
+- Created cross-platform WebView applications for mobile devices.
+- Identified and resolved technical issues, bugs, and errors promptly.
+- Collaborated with clients to understand requirements and provided regular project updates.
+- Conducted thorough testing to ensure website and application functionality, performance, and security.
+- Maintained comprehensive project documentation, including code comments and system architecture.
+- Stayed updated on industry trends, emerging technologies, and best practices.
+
+**Reference for Verification:**
+
+For verification of my professional experience, please feel free to view my Fiverr profile:
+
+**Fiverr Profile link**: <https://www.fiverr.com/m_noman_aslam>
+**
+
+## **SOFTWARES/ LANGUAGES:**
+
+`		`Databases				MS SQL SERVER / All Open Access DBs 
+
+`		`Project Management Software	MS Project
+
+`		`Application Software 			Microsoft Office
+
+`		`Programming Languages		PHP, Laravel, SQL, PYTHON, TYPESCRIPT, JAVA
+
+`		`API					Postman
+
+`		`Version Control			GitHub
+
+`		`Server Management			Apache, Nginx
+
+`		`Development Environments		Visual Studio Code, Sublime Text, Jupyter Notebook, Spider
+
+
+
+#### **REFERENCES**
+Will be furnished on request.
 
