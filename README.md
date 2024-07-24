@@ -1,4 +1,4 @@
-Muhammad Noman Aslam ![](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.001.jpeg)
+*******Muhammad Noman Aslam***
 
 
 ***Web Developer***
@@ -93,7 +93,7 @@ React**,** Next JS**,** RESTful API**,** JavaScript**,** HTML5**,** CSS3**,** Gi
 
 Visual Studio Code, WebStorm, Postman, Workbench
 
-![Dominican Republic Guide by Silven International](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.003.png)
+
 **17-06-2018 – 25-01-2024**
 
 **Silven International**		
@@ -140,7 +140,7 @@ Silven International
 
 \- Phone: - +1 (829) 789-9047 - WhatsApp: +420 702 026 106
 
-![](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.004.png)
+
 
 **17-03-2023 – 27-01-2024**
 
@@ -210,7 +210,7 @@ PHP**,** MySQL**,** React**,** JavaScript**,** TypeScript**,** HTML5**,** CSS3**
 
 Visual Studio Code, Postman, Trello, Android Studio
 
-![](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.005.jpeg)**2018**
+**2018**
 
 **Fiverr**		
 
