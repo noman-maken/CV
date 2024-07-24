@@ -66,7 +66,7 @@ Looking for a job that's tough and has lots to learn, where I can grow in my car
 
 **PRACTICAL EXPERIENCE**
 
-![](Aspose.Words.4156e168-bd53-4748-ac98-153ce19725a2.002.png)
+
 **26-01-2024 – To date**	
 
 **University of Management and Technology (UMT)**		
